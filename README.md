@@ -14,5 +14,10 @@ new_york_city.csv
 Chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://docs.gitlab.com/ee/topics/git/numerous_undo_possibilities_in_git/
+
+I would also like to thank the creators of TERMUX for 
+allowing me to do this on a Chromebook.
+
+
 
