@@ -5,7 +5,8 @@
 Bike Share Project
 
 ### Description
-Analyzing Data on Public Bikeshare projects
+Analyzing Data on Public Bikeshare projects in 
+Washington, Chicago and New York.
 
 ### Files used
 bikeshare_2.py
